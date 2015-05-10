@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SuperHero</string>
+    <string name="title_activity_location">Map</string>
+    <string name="title_activity_MainActivity">Main</string>
+</resources>
