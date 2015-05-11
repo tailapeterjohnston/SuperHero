@@ -16,11 +16,19 @@
     <Button
         android:layout_width="fill_parent"
         android:layout_height="@android:dimen/thumbnail_height"
-        android:text="GPS and SMS activation"
+        android:text="@string/GPSandSMSActivation"
         android:id="@+id/gpsSMSButton"
         android:layout_marginTop="91dp"
         android:background="#ff56c587"
         android:layout_alignParentTop="true"
         android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/LatLongTextView"
+        android:id="@+id/latLongTextView"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
 
 </RelativeLayout>

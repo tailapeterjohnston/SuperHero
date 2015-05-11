@@ -8,4 +8,6 @@
     <string name="dummy_content">DUMMY\nCONTENT</string>
     <string name="GPSActivateButton">Get GPS Fragment Activity</string>
     <string name="EmergencyContactsButton">Emergency Contacts</string>
+    <string name="LatLongTextView">Finding Latitude and Longitude....</string>
+    <string name="GPSandSMSActivation">GPS and SMS activation</string>
 </resources>
